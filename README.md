@@ -5,8 +5,10 @@ This repo contains screenshots of User Interfaces I've designed and implemented 
 
 
 ## Code Ninjas Richmond Hill Portal
+The following web app replaced pre-existing Excel worksheets. 
+<br>
 
-Calendar View
+**Calendar View**
 ![Calendar View](https://github.com/NigelLobo/Sample-UI-Work/blob/main/Code%20Ninjas%20Portal%20UI/Calendar%20View.png)
 
 Session Viewer
