@@ -3,4 +3,4 @@ This repo contains screenshots of User Interfaces I've designed and implemented 
 
 
 ## Code Ninjas Richmond Hill Portal
-![Calendar View]()
+![Calendar View](Code Ninjas Portal UI/Calendar View.png)
