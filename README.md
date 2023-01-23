@@ -21,5 +21,8 @@ Transaction Table
 Lesson Path Editor
 ![Lesson Path Editor](https://github.com/NigelLobo/Sample-UI-Work/blob/main/Code%20Ninjas%20Portal%20UI/Lesson%20Paths.png)
 
+Student History Table
+![Student History Table](https://github.com/NigelLobo/Sample-UI-Work/blob/main/Code%20Ninjas%20Portal%20UI/Student%20History.png)
+
 Admin Data Forms
 ![Admin Data Forms](https://github.com/NigelLobo/Sample-UI-Work/blob/main/Code%20Ninjas%20Portal%20UI/Admin%20Add%20Data.png)
