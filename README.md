@@ -1,5 +1,5 @@
-# Sample-UI-Work
-This repo contains screenshots of User Interfaces I've designed and implemented for previous companies. 
+# Frontend Work
+This repo contains screenshots of a web app I built with Vue.js
 
 <br>
 
